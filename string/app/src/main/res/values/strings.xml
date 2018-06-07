@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">string</string>
+    <string name="text1">텍스트뷰에 입력되는 글자</string>
+    <string name="menu1">메뉴A</string>
+    <string name="menu2">메뉴B</string>
+    <string name="menu3">메뉴C</string>
+</resources>

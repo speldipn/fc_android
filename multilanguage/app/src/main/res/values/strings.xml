@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">multilanguage</string>
+    <string name="menu1">Menu 1</string>
+    <string name="menu2">Menu 2</string>
+    <string name="menu3">Menu 3</string>
+
+</resources>
